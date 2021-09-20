@@ -1,0 +1,58 @@
+const CATALOG = [
+  {
+    id: 'el1',
+    name: 'Ноутбук HP 15-dw3000ua',
+    img: 'https://i.ibb.co/2gXsFxL/1152533-middle.jpg',
+    price: 20999,
+    feetback: 10,
+  },
+  {
+    id: 'el2',
+    name: 'Ноутбук LENOVO IdeaPad 5 15ARE05',
+    img: 'https://i.ibb.co/2gXsFxL/1152533-middle.jpg',
+    price: 14999,
+    feetback: 15,
+  },
+  {
+    id: 'el3',
+    name: 'Ноутбук LENOVO V15',
+    img: 'https://i.ibb.co/2gXsFxL/1152533-middle.jpg',
+    price: 12299,
+    feetback: 1,
+  },
+  {
+    id: 'el4',
+    name: 'Ноутбук ACER Nitro 5 AN515-44',
+    img: 'https://i.ibb.co/2gXsFxL/1152533-middle.jpg',
+    price: 29999,
+    feetback: 50,
+  },
+  {
+    id: 'el5',
+    name: 'Ноутбук ASUS Vivobook S S533EQ-BN362',
+    img: 'https://i.ibb.co/2gXsFxL/1152533-middle.jpg',
+    price: 28999,
+    feetback: 25,
+  },
+  {
+    id: 'el6',
+    name: 'Ноутбук ASUS Zephyrus GX551QS-HB047R',
+    img: 'https://i.ibb.co/2gXsFxL/1152533-middle.jpg',
+    price: 169999,
+    feetback: 10,
+  },
+  {
+    id: 'el7',
+    name: 'Ноутбук LENOVO V15',
+    img: 'https://i.ibb.co/2gXsFxL/1152533-middle.jpg',
+    price: 12299,
+    feetback: 105,
+  },
+  {
+    id: 'el8',
+    name: 'Ноутбук ACER Nitro 5 AN515-44',
+    img: 'https://i.ibb.co/2gXsFxL/1152533-middle.jpg',
+    price: 29999,
+    feetback: 35,
+  },
+];

@@ -1,0 +1,48 @@
+.shopcard__inner{
+  position: fixed;
+  background: #C4C4C4;
+  height: 100vh;
+  max-width: 30%;
+  width: 100%;
+  right: 0;
+  top: 0;
+  padding: 100px 30px;
+}
+.shopcard__item{
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  justify-content: space-around;
+  padding: 20px;
+  background: white;
+  max-height: 150px;
+  height: 100%;
+  margin-bottom: 30px;
+}
+.shopcard__img img{
+  max-width: 180px;
+  width: 100%;
+}
+img{
+  width: 100%;
+}
+.shopcard__price{
+  font-size: 22px;
+  font-weight: bold;
+  color: #b21f24;
+  padding: 8px 0;
+}
+.shopcard__name{
+  font-size: 20px;
+  color:rgb(55, 82, 117);
+  font-weight: bold;
+}
+.shopcard__close img{
+  max-width: 30px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+.pay{
+  color: white;
+}

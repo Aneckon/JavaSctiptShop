@@ -1,0 +1,28 @@
+.pagination__list{
+  font-family: Helvetica, sans-serif;
+  font-size: small;
+  max-width: 250px;
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  margin-left: 12px;
+}
+.pagination__item{
+  margin-right: -1px;
+  cursor: pointer;
+  border: rgb(55, 82, 117) solid 1px;
+  padding: 5px 20px;
+  transition: .3s;
+  color: rgb(55, 82, 117);
+  font-size: 18px;
+}
+.pagination__item:hover{
+  background: rgba(55, 82, 117, 0.5);
+}
+.pagination__item:last-child{
+  border-radius: 0 3px 3px 0;
+}
+.pagination__item:first-child{
+  border-radius: 3px 0 0 3px;
+}
